@@ -1,6 +1,6 @@
 # Clustering of Article
 
-The goal of this project is that clusters of search results provide users who need to reach the nearest content in large data. This clustering for english article.
+ The goal of this project is that reach information the fastest way through large piles of data. This clustering for english article.
 
 ##Requirements
 * Carrot2
