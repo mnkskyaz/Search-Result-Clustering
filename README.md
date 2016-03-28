@@ -7,12 +7,12 @@ The goal of this project is to facilitate information search on the Web. Results
 * Solr
 
 ##Project Development Steps
-*Installing and learning (Carrot2,Solr)
-*Downloading data
-*Converting txt data to json
-*Uploading the data to solr
-*Deciding which algorithm is used 
-*Configuring JAR dependencies and search component 
-*Clustering in solr
-*Displaying  Solr-clustered results in Carrot2 
+* Installing and learning (Carrot2,Solr)
+* Downloading data
+* Converting txt data to json
+* Uploading the data to solr
+* Deciding which algorithm is used 
+* Configuring JAR dependencies and search component 
+* Clustering in solr
+* Displaying  Solr-clustered results in Carrot2 
 
