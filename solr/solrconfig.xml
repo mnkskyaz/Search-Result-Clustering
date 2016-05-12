@@ -3,7 +3,7 @@
 <config>
   <!-- Dependencies and JARs. -->
 
-  <luceneMatchVersion>LUCENE_40</luceneMatchVersion>
+  
 
   <!--
    These are relative from a core's directory.
