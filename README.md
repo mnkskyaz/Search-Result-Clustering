@@ -1,4 +1,4 @@
-# Clustering of Article
+# Search Result Clustering
 
 The goal of this project is to facilitate information search on the web. Result are grouped on their similarity and shown to the user a list of clusters. 
 
