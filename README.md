@@ -1,6 +1,6 @@
 # Clustering of Article
 
-The goal of this project is to facilitate information search on the Web. Results are grouped on  their similarity and shown to the user as a list of clusters. 
+The goal of this project is to facilitate information search on the web. Result are grouped on their similarity and shown to the user a list of clusters. 
 
 ##Requirements
 * Carrot2
@@ -9,10 +9,9 @@ The goal of this project is to facilitate information search on the Web. Results
 ##Project Development Steps
 * Installing and learning (Carrot2,Solr)
 * Downloading data
-* Converting txt data to json
 * Uploading the data to solr
 * Deciding which algorithm is used 
-* Configuring JAR dependencies and search component 
+* Configuring solrConfig.xml 
 * Clustering in solr
 * Displaying  Solr-clustered results in Carrot2 
 
